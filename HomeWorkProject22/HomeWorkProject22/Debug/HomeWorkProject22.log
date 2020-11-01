@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programe\HomeWorkProject22\HomeWorkProject22\Source.cpp(17,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programe\HomeWorkProject22\HomeWorkProject22\Source.cpp(25): warning C4715: 'ChangeCurrency': not all control paths return a value
+  HomeWorkProject22.vcxproj -> D:\Programe\HomeWorkProject22\Debug\HomeWorkProject22.exe
